@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Hardik  
+
+🎓 Pharmaceutical Engineering student at IIT BHU  
+💡 Exploring Python, Data Science & AI applications in healthcare  
+🚀 Currently learning: Python, Numpy, Pandas  
+🌱 Interested in research and technology that solves real-world problems  
+
+---
+📫 Reach me: hardiksood555@gmail.com 
 
 <!--
 **hardik-sood/hardik-sood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
